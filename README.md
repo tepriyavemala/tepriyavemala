@@ -1,5 +1,3 @@
-[![MasterHead](https://ternionsolution.com/images/Devops.gif)]
-
 <h1 align="center">Hi 👋, I'm Tepriya Vemala</h1>
 <h3 align="center">A passionate DevOps Engineer from Singapore</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
